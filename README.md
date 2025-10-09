@@ -13,7 +13,6 @@ mejorar mis habilidades.
 · Me gustan los <b>panqueques con dulce de leche</b> y las <b>pepas alemanas</b> (:
 </pre>
 <hr>
-
 <h2>· Actualmente aprendiendo (intentando)</h2>
 <span> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
