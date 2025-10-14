@@ -30,7 +30,7 @@
 
 <h2 align="center"> <em>IDE</em> </h2>
 <p align="center">
-  <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/NetBeans_25-000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/Apache_NetBeans_25-000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
   <a href="https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=AMER_en_AMER_IDEA_Branded&term=intellij%20idea&content=693349187733&gad_source=1&gad_campaignid=9736964635&gclid=Cj0KCQjw3aLHBhDTARIsAIRij5-M3wYHHK5t-FfMHBsED5FlNgYoV1uaUgoaeXYg9LmbfvOyyzxD3YQaAm_nEALw_wcB"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 </p>
