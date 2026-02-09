@@ -25,7 +25,7 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux%20Mint-000000?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+  <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white"></a>
 </p>
 
 <h2 align="center"> <em>IDE</em> </h2>
