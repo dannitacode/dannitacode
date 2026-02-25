@@ -40,7 +40,6 @@
   
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dannitacode&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dannitacode&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <br/>
 <br/>
