@@ -38,8 +38,9 @@
 <h2 align="center"> <em>Stats</em> </h2>
 <div align = "center"> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannitacode&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=dannitacode&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dannitacode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dannitacode&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dannitacode&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <br/>
 <br/>
