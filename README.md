@@ -5,7 +5,7 @@
 <div align="center"><img height="60" src="https://cdn3.emoji.gg/emojis/2449-minecraftbee.gif"></div>
 <br>
 <pre>
-· Soy <b><em>estudiante de primer año de la universidad</em></b> y me estoy formando en una <b><em>Tecnicatura de Desarrollo de Software</em></b>.
+· Soy <b><em>estudiante de segundo año en la universidad</em></b>, formandome en una <b><em>tecnicatura orientada al desarrollo de software</em></b>.
 · Me interesa tanto el desarrollo web como las aplicaciones de escritorio, y disfruto aprender por mi cuenta para 
   mejorar mis habilidades.
 · Me gusta entender cómo funcionan las cosas <b><em>“por dentro”</em></b>, <b><em>quizás más de lo que debería</em></b>.
